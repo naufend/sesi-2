@@ -1,4 +1,4 @@
-nilai = 11
+nilai = int(input("Masukan Angka: "))
 
 if nilai % 2 == 0:
     print("Bilangan Genap")
